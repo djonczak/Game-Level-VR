@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219b514287801a048843c88afc3bcda3, type: 3}
+  m_Name: GermanForest
+  m_EditorClassIdentifier: 
+  Text:
+  - Ich brauche Teleportationskristalle, um das Portal zu aktivieren
+  - "Dr\xFCcke [E], um das Portal zu aktivieren"
+  - "Dr\xFCcke [E]"
+  - Ich muss einen anderen Weg finden
+  - "Dr\xFCcke [E]"
+  - "Dr\xFCcke [E]"
+  - "Dr\xFCcke [E]"
+  - "In diesem Sockel befinden sich drei L\xF6cher"
+  - "Dr\xFCcke [E], um die Schranke auszuschalten"
+  - "Dr\xFCcke [E]"
+  - Finde Pfadfinder
+  - 'Fortsetzen '
+  - Sparen
+  - Verlassen
+  - Teleportationskristall
+  - Blutkristall
+  - Gespeichert

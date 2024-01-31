@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219b514287801a048843c88afc3bcda3, type: 3}
+  m_Name: PLForest
+  m_EditorClassIdentifier: 
+  Text:
+  - Potrzebuje krysztalu, by aktywowac portal
+  - Wcisnij[E], by aktywowac portal
+  - '[E]'
+  - Musze znalezc inna droge
+  - '[E]'
+  - '[E]'
+  - '[E]'
+  - W tym piedestale znajduja sie trzy dziury
+  - Wcisnij [E], wloz krysztaly
+  - '[E]'
+  - Znajdz zwiadowcow
+  - Wznow
+  - Zapisz
+  - Wyjdz
+  - Podniosles krysztal teleportacyjny
+  - Podniosles krwawy krysztal
+  - Zapisano
